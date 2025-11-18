@@ -10,11 +10,10 @@ This repository implements a **hybrid physics-informed and deep learning pipelin
 * [Overview](#overview)
 * [Pipeline](#pipeline)
 * [Installation](#installation)
-* [Usage](#usage)
 * [File Structure](#file-structure)
 * [Evaluation & Experiments](#evaluation--experiments)
 * [Milestones](#milestones)
-* [References](#references)
+
 
 ---
 
