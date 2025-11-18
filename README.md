@@ -95,47 +95,7 @@ gradio
 deepxde
 ```
 
----
 
-## Usage
-
-1. **Preprocess data**
-
-```python
-!python notebooks/01_preprocess.ipynb
-```
-
-2. **Train PINN**
-
-```python
-!python notebooks/02_train_pinn.ipynb
-```
-
-3. **Create dataset**
-
-```python
-!python notebooks/03_create_dataset.ipynb
-```
-
-4. **Train DeepONet**
-
-```python
-!python notebooks/03_train_deeponet.ipynb
-```
-
-5. **Feature extraction & classifier**
-
-```python
-!python notebooks/04_train_classifier.ipynb
-```
-
-6. **Launch dashboard**
-
-```python
-!python notebooks/05_dashboard.ipynb
-```
-
----
 
 ## File Structure
 
@@ -196,8 +156,4 @@ project/
 
 ---
 
-## References
 
-1. Raissi, M., Perdikaris, P., & Karniadakis, G. E. (2019). *Physics-informed neural networks: A deep learning framework for solving forward and inverse problems involving nonlinear partial differential equations.*
-2. Lu, L., Jin, P., & Karniadakis, G. E. (2021). *DeepONet: Learning nonlinear operators for identifying differential equations based on the universal approximation theorem of operators.*
-3. [DeepXDE GitHub](https://github.com/lululxvi/deepxde)
